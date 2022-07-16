@@ -1,3 +1,9 @@
+# Game and Watch Games for [SoCkit (MiSTer) Platform](https://github.com/sockitfpga/MiSTer_SoCkit) 
+
+Ported by Somhic from https://github.com/MiSTer-devel/GnW_MiSTer
+
+Follows original README.
+
 # MiSTer Port of Game and Watch Games
 
 The Game and Watch handheld devices emulator for MiSTer FPGA by Pierco.
